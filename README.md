@@ -7,3 +7,5 @@ This dataset includes 2gb of stop data from Washington state. Please see the dat
 ## Acknowledgements:
 This dataset was kindly made available by the Stanford Open Policing Project. If you use it for a research publication, please cite their working paper:
 E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, V. Ramachandran, C. Phillips, S. Goel. (2017) “A large-scale analysis of racial disparities in police stops across the United States”.
+## DashBoard Using PowerBi
+![Screenshot 2023-12-13 001811](https://github.com/Ali-Hassan96/Traffic-Stops-Analysis/assets/78084817/31519f5a-fd79-4c58-af18-43cef3de7f52)
