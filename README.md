@@ -1,5 +1,7 @@
 # Traffic-Stops-Analysis
- The Stanford Open Policing Project team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country. Their goal is to help researchers, journalists, and policymakers investigate and improve interactions between police and the public.
+On a typical day in the United States, police officers make more than 50,000 traffic stops. The Stanford Open Policing Project team is gathering, analyzing, and releasing records from millions of traffic stops by law enforcement agencies across the country. Their goal is to help researchers, journalists, and policymakers investigate and improve interactions between police and the public.
+
+If you'd like to see data regarding other states, please go to https://www.kaggle.com/stanford-open-policing.
 # Content:
 This dataset includes 2gb of stop data from Washington state. Please see the data readme for the full details of the available fields.
 # Acknowledgements:
